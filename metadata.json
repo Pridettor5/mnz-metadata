@@ -1,0 +1,10 @@
+{
+  "name": "MANEZA",
+  "symbol": "MNZ",
+  "description": "MANEZA — anti-snipe launch token",
+  "image": "https://raw.githubusercontent.com/Pridettor5/mnz-metadata/main/MNZLOGO.png",
+  "external_url": "https://your-website.or.social",
+  "attributes": [
+    { "trait_type": "LaunchedOn", "value": "2025-08-01" }
+  ]
+}
