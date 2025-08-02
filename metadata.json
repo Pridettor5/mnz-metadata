@@ -1,10 +1,21 @@
 {
   "name": "MANEZA",
   "symbol": "MNZ",
-  "description": "MANEZA — anti-snipe launch token",
+- "description": "MANEZA — anti-snipe launch tokenn…",
++ "description": "MANEZA is the cutting-edge anti-bot token for fair launches…!",
   "image": "https://raw.githubusercontent.com/Pridettor5/mnz-metadata/main/MNZLOGO.png",
-  "external_url": "https://your-website.or.social",
-  "attributes": [
-    { "trait_type": "LaunchedOn", "value": "2025-08-01" }
-  ]
++ // ← change this URL to wherever your new PNG/SVG logo lives
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+-       "uri": "https://raw.githubusercontent.com/Pridettor5/mnz-metadata/main/NEW_LOGO_FILENAME.png",
++       "uri": "https://raw.githubusercontent.com/Pridettor5/mnz-metadata/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": null
+  }
 }
